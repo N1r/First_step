@@ -1,0 +1,67 @@
+"1212996740244948080"
+
+{
+  "videos": [
+    {
+      "filename": "n250715ad2v2i3u4rmfwia2yma9s8mk7",
+      "title": "内塔尼亚胡盛赞：特朗普重塑美国，自由世界翘首以盼！美以联手抗伊，中东稳定指日可待！",
+      "desc": "",
+      "cid": 31041062317
+    }
+  ],
+  "cover": "https://archive.biliimg.com/bfs/archive/2f9f13ee9c9c74232afa49dca446698796863dc9.jpg",
+  "cover43": "https://archive.biliimg.com/bfs/archive/db116a0cc4cf7d2a36012289f941b8cd12ea201d.jpg",
+  "ai_cover": 0,
+  "title": "内塔尼亚胡盛赞：特朗普重塑美国，自由世界翘首以盼！美以联手抗伊，中东稳定指日可待！",
+  "copyright": 1,
+  "human_type2": 1009,
+  "tid": 208,
+  "tag": "资讯直通车,特朗普,美国,中东",
+  "mission_id": 4040754,
+  "topic_id": 1167972,
+  "topic_detail": {
+    "from_topic_id": 1167972,
+    "from_source": "arc.web.recommend"
+  },
+  "desc": "",
+  "dynamic": "",
+  "recreate": -1,
+  "interactive": 0,
+  "act_reserve_create": 0,
+  "no_disturbance": 0,
+  "is_only_self": 0,
+  "watermark": {
+    "state": 1
+  },
+  "no_reprint": 1,
+  "subtitle": {
+    "open": 0,
+    "lan": ""
+  },
+  "charging_pay": 1,
+  "preview": {
+    "need_preview": 1,
+    "start_time": 0,
+    "end_time": 180
+  },
+  "upower_level_id": "1212996740244948080",
+  "upower_mode": 0,
+  "upower_unit_price": 0,
+  "qa": {
+    "qa_enabled": 0,
+    "qa_id": null
+  },
+  "member_first": {
+    "enabled": 0,
+    "exp_time": 1752771378
+  },
+  "limited_free": null,
+  "up_selection_reply": false,
+  "up_close_reply": false,
+  "up_close_danmu": false,
+  "neutral_mark": "",
+  "dolby": 0,
+  "lossless_music": 0,
+  "web_os": 1,
+  "csrf": "f2f149883014c53a252213bfce2dff35"
+}
