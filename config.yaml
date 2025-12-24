@@ -13,7 +13,8 @@ display_language: "zh-CN"
 api:
   key: 'sk-2hQb4lo4JuCdWWCflcN41jddIIQzhtSi78Qeb7vWOM40XSkJ'
   base_url: 'https://api.302.ai'
-  model: 'sophnet/LongCat-Flash-Chat'
+  #model: 'sophnet/LongCat-Flash-Chat'
+  model: 'grok-4-1-fast-non-reasoning'
   llm_support_json: true
 # *Number of LLM multi-threaded accesses, set to 1 if using local LLM
 max_workers: 8
